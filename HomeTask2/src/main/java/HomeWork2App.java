@@ -14,6 +14,8 @@ public class HomeWork2App {
         IsLeapYear(1600);
         IsLeapYear(1900);
         IsLeapYear(1904);
+        IsLeapYear(1907);
+        IsLeapYear(1912);
         IsLeapYear(2000);
         //System.out.println(IsLeapYear(2020)); //this string is just for check method IsLeapYear works good
     }
